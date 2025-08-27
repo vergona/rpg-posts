@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "b5e0e85913969638",
+    "type": "split",
+    "children": [
+      {
+        "id": "a765792036435df6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d405f0b9593ea05e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Winterland-Ursula/01. Версия продолжения 1 (сам).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01. Версия продолжения 1 (сам)"
+            }
+          },
+          {
+            "id": "3cca7ef9ff1137e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Winterland-Ursula/02.Б. Холод Бездны.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02.Б. Холод Бездны"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb266e0ca94c6082",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d1e00dcaefc16ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66157674ddbb8f0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "e91741d566a2e433",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "8bb0ecb2cececa10",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b7f90948380eef43",
+    "type": "split",
+    "children": [
+      {
+        "id": "43c86721fa21aa94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db00f9edd27c4ac8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Winterland-Ursula/02.Б. Холод Бездны.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 02.Б. Холод Бездны"
+            }
+          },
+          {
+            "id": "f87e4bd79842514f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Winterland-Ursula/02.Б. Холод Бездны.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 02.Б. Холод Бездны"
+            }
+          },
+          {
+            "id": "d91ac364950b4fdb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "d5ecdab1152c6960",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Winterland-Ursula/02.Б. Холод Бездны.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура 02.Б. Холод Бездны"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "3cca7ef9ff1137e4",
+  "lastOpenFiles": [
+    "Winterland-Ursula/02.А. Версия вокруг проклятья Скагге (1 блок).md",
+    "Winterland-Ursula/02. Анализ оригинала + немного игроканона.md",
+    "Winterland-Ursula/01. Версия продолжения 1 (сам).md",
+    "Winterland-Ursula/01. Анализ оригинала.md",
+    "Winterland-Ursula/Ulma_curse.md",
+    "README.md"
+  ]
+}
