@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Winterland-Ursula/01. Версия продолжения 1 (сам).md",
+                "file": "Winterland-Ursula/01. Ключ и Печать (генерация без подсказок).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Версия продолжения 1 (сам)"
+              "title": "01. Ключ и Печать (генерация без подсказок)"
             }
           },
           {
@@ -27,13 +27,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Winterland-Ursula/02.Б. Холод Бездны.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.Б. Холод Бездны"
-            }
+              "title": "README"
+            },
+            "group": "178623d8bf541394"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "61846cff54cc5383",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c53d56f1b4ca5c2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия"
+            },
+            "group": "d20f562bb085e847"
           }
         ]
       }
@@ -87,12 +110,28 @@
               "icon": "lucide-bookmark",
               "title": "Закладки"
             }
+          },
+          {
+            "id": "d5ecdab1152c6960",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура README"
+            },
+            "group": "178623d8bf541394"
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 369.50909423828125
   },
   "right": {
     "id": "b7f90948380eef43",
@@ -108,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Winterland-Ursula/01. Версия продолжения 1 (сам).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 01. Версия продолжения 1 (сам)"
+              "title": "Обратные ссылки для README"
             }
           },
           {
@@ -127,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Winterland-Ursula/01. Версия продолжения 1 (сам).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 01. Версия продолжения 1 (сам)"
+              "title": "Исходящие ссылки из README"
             }
           },
           {
@@ -151,19 +190,20 @@
             }
           },
           {
-            "id": "d5ecdab1152c6960",
+            "id": "a0cdac8e59e7c38c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Winterland-Ursula/01. Версия продолжения 1 (сам).md",
+                "file": "Без названия.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 01. Версия продолжения 1 (сам)"
-            }
+              "title": "Структура Без названия"
+            },
+            "group": "d20f562bb085e847"
           }
         ],
         "currentTab": 3
@@ -183,16 +223,16 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "d405f0b9593ea05e",
+  "active": "3cca7ef9ff1137e4",
   "lastOpenFiles": [
-    "Winterland-Ursula/02.Б. Холод Бездны.md",
-    "Winterland-Ursula/02.Б. После текста - комментарий о ярле.md",
-    "Winterland-Ursula/02.А. Версия вокруг проклятья Скагге (1 блок).md",
-    "Winterland-Ursula/01. Версия продолжения 1 (сам).md",
+    "Winterland-Ursula/01. Ключ и Печать (генерация без подсказок).md",
+    "README.md",
+    "Winterland-Ursula/02.Б. Холод в крови.md",
     "Без названия.md",
+    "Winterland-Ursula/02.Бб. После текста - комментарий о ярле.md",
+    "Winterland-Ursula/02.А. Проклятье ярла (1 блок генерации).md",
     "Winterland-Ursula/02. Анализ оригинала + немного игроканона.md",
     "Winterland-Ursula/01. Анализ оригинала.md",
-    "Winterland-Ursula/Ulma_curse.md",
-    "README.md"
+    "Winterland-Ursula/Ulma_curse.md"
   ]
 }
