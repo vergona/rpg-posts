@@ -35,8 +35,7 @@
               "title": "02.Б. Холод Бездны"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Winterland-Ursula/02.Б. Холод Бездны.md",
+                "file": "Winterland-Ursula/01. Версия продолжения 1 (сам).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 02.Б. Холод Бездны"
+              "title": "Обратные ссылки для 01. Версия продолжения 1 (сам)"
             }
           },
           {
@@ -128,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Winterland-Ursula/02.Б. Холод Бездны.md",
+                "file": "Winterland-Ursula/01. Версия продолжения 1 (сам).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 02.Б. Холод Бездны"
+              "title": "Исходящие ссылки из 01. Версия продолжения 1 (сам)"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Winterland-Ursula/02.Б. Холод Бездны.md",
+                "file": "Winterland-Ursula/01. Версия продолжения 1 (сам).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 02.Б. Холод Бездны"
+              "title": "Структура 01. Версия продолжения 1 (сам)"
             }
           }
         ],
@@ -184,11 +183,14 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "3cca7ef9ff1137e4",
+  "active": "d405f0b9593ea05e",
   "lastOpenFiles": [
+    "Winterland-Ursula/02.Б. Холод Бездны.md",
+    "Winterland-Ursula/02.Б. После текста - комментарий о ярле.md",
     "Winterland-Ursula/02.А. Версия вокруг проклятья Скагге (1 блок).md",
-    "Winterland-Ursula/02. Анализ оригинала + немного игроканона.md",
     "Winterland-Ursula/01. Версия продолжения 1 (сам).md",
+    "Без названия.md",
+    "Winterland-Ursula/02. Анализ оригинала + немного игроканона.md",
     "Winterland-Ursula/01. Анализ оригинала.md",
     "Winterland-Ursula/Ulma_curse.md",
     "README.md"
